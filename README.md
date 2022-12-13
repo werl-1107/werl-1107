@@ -3,7 +3,7 @@
 - 😊 It's my first time!
 - 💞️ I am Korean!
 - 👍 Nice to meet you!
-
+- I'm using a translator right now, so it's hard 😅
 <!---
 werl-1107/werl-1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
